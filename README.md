@@ -7,7 +7,6 @@ I build practical projects while strengthening my foundations in computer scienc
 ## Featured work
 
 - **[Artificial Intelligence Lab](https://github.com/Dhanush290500/ARTIFICAL-INTELLIGENCE-CSA1713-)** — 40 documented experiments covering search, constraint satisfaction, game-playing, machine learning, neural networks, NLP, and recommendation systems.
-- **[Code Solver](https://github.com/Dhanush290500/Code-Solver)** — a programming project from my portfolio.
 
 ## Focus areas
 
