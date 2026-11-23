@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Dhanush 👋
 
-<!--
-**Dhanush290500/Dhanush290500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science student | AI, machine learning & software development**
 
-Here are some ideas to get you started:
+I build practical projects while strengthening my foundations in computer science. My work ranges from AI and machine learning experiments to programming and problem-solving projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+
+- **[Artificial Intelligence Lab](https://github.com/Dhanush290500/ARTIFICAL-INTELLIGENCE-CSA1713-)** — 40 documented experiments covering search, constraint satisfaction, game-playing, machine learning, neural networks, NLP, and recommendation systems.
+- **[Code Solver](https://github.com/Dhanush290500/Code-Solver)** — a programming project from my portfolio.
+
+## Focus areas
+
+- Artificial intelligence and search algorithms
+- Machine learning and data-driven applications
+- Problem solving and software engineering fundamentals
+
+## Technologies
+
+**Languages:** Python · JavaScript · Prolog · HTML  
+**Libraries and tools:** scikit-learn · NumPy · Git · GitHub
+
+## Currently
+
+Learning by building, documenting, and improving projects one step at a time.
+
+---
+
+[View my repositories](https://github.com/Dhanush290500?tab=repositories) · [Visit my profile](https://github.com/Dhanush290500)
